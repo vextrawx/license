@@ -1,0 +1,2 @@
+# license
+anticheat-license
