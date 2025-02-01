@@ -2,25 +2,17 @@
    {
       "anticheat":{
         "146.103.26.134": "Mental Deathmatch",
-        "146.103.26.66": "Emperia Roleplay",
-        "146.103.26.39": "Unity Roleplay",
         "146.103.26.33": "Force Deathplay",
         "91.124.63.233": "Unity Deathplay",
-        "146.103.26.190": "Vice Deathplay",
-        "45.9.30.57": "Santa Roleplay",
-        "185.136.206.241": "Zaman Gaming",
         "146.103.26.99": "Vadi Deathplay",
-        "45.9.30.250": "Light Deathplay",
         "91.124.63.161": "Shade Deathplay",
-        "45.9.30.101": "Fear Deathplay",
          "91.124.63.167": "Red Deathplay",
       },
       "pizza_delivery":{
          "45.9.30.57": "Santa Roleplay"
       },
       "ooc_shop":{
-         "146.103.26.99": "Vadi Deathplay",
-         "45.9.30.101": "Fear Deathplay"
+         "194.15.52.76": "Mortal Deathplay",
       }
    }
 ]
