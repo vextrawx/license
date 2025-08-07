@@ -1,20 +1,18 @@
-[
-   {
-      "anticheat":{
-        "146.103.26.134": "Mental Deathmatch",
-        "45.147.46.234": "Force Deathplay",
-        "91.124.63.233": "Unity Deathplay",
-        "146.103.26.99": "Vadi Deathplay",
-        "91.124.63.161": "Shade Deathplay",
-        "91.124.63.167": "Red Deathplay",
-        "35.157.32.158": "Pasha Deathplay", 
-        "45.147.46.245": "Rost Roleplay"
-      },
-      "pizza_delivery":{
-         "193.164.4.198": "Veronica Roleplay"
-      },
-      "ooc_shop":{
-         "194.15.52.76": "Mortal Deathplay"
-      }
-   }
-]
+{
+  "anticheat": {
+    "146.103.26.134": "Mental Deathmatch",
+    "45.147.46.234": "Force Deathplay",
+    "91.124.63.233": "Unity Deathplay",
+    "146.103.26.99": "Vadi Deathplay",
+    "91.124.63.161": "Shade Deathplay",
+    "91.124.63.167": "Red Deathplay",
+    "35.157.32.158": "Pasha Deathplay",
+    "45.147.46.245": "Rost Roleplay"
+  },
+  "pizza_delivery": {
+    "193.164.4.198": "Veronica Roleplay"
+  },
+  "ooc_shop": {
+    "194.15.52.76": "Mortal Deathplay"
+  }
+}
